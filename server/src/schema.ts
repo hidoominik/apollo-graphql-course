@@ -29,6 +29,4 @@ type Author {
     photo: String
 
 }
-
-
 `;
