@@ -16,7 +16,7 @@ type Track{
     "the track's main illustration to display in track card or track page detail"
     thumbnail: String
     "the track's approximate length to complete, in minutes"
-    lenght: Int
+    length: Int
     "the number of modules this track contains"
     modulesCount: Int
 }
